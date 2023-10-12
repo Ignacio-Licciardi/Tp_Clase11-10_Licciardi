@@ -1,2 +1,4 @@
 # exercise-typescript-array-functions
-Exercise to work with array functions using TypeScript.
+Entrega TP clase 11/10/2023 
+Licciardi Ignacio 
+
